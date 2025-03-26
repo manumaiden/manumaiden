@@ -1,16 +1,61 @@
-## Hi there 👋
+### Hi there, I'm Emanuele 👨‍💻👋 | **Tech Enthusiast | SysAdmin | Network Engineer** 🖥️🔧
+I love problem-solving and always look for ways to optimize and automate things! 🚀
 
-<!--
-**manumaiden/manumaiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧐 **About Me**
+- Passionate about **technology, computers, and open-source** 💡🛠️
+- I love working with **Docker** 🐳 and **Raspberry Pi projects** 🍓
+- Started my journey in **1995 with a 486DX and DOS** ⏳💾
+- Experienced in **system administration (Linux/Windows) and networking** 🌐⚙️
+- Currently **moving from Italy 🇮🇹 to the Czech Republic 🇨🇿 for work**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 **Currently Working On**
+- 🔭 **Improving my technical skills** & automation workflows
+- 🌱 **Learning OpenShift** ☸️ and exploring cloud-native technologies
+- 💬 **Ask me about**: System administration (Linux/Windows) & Network Engineering 💻🛜
+- 😄 **Pronouns**: He/Min
+- 🍪 **Fun fact**: I love **pizza** 🍕 and bakery 🥐 in general!
+
+---
+
+## 🛠️ **Tech Stack**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+---
+## 📜 **Certifications**
+- 🏅 **Red Hat Certified System Administrator (RHCSA)** 
+- 🏅 **Red Hat Certified Engineer (RHCE)** 
+- 🏅 **Linux LPI**
+- 🏅 **Cisco CCNA**
+- 🏅 **Cisco CCNP** 
+- 🏅 **Microsoft MTA** 
+---
+
+## 🚀 **Projects & Contributions**
+🔹 [Project 1](#) - A cool project I'm working on.   
+🔹 [Project 2](#) - Another open-source contribution.  
+
+---
+
+## 📊 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manumaiden&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumaiden&layout=compact&theme=radical)
+
+---
+
+## 📬 **Contact Me**
+![Discord](https://discord.c99.nl/widget/theme-1/260148150562455554.png)
+
+- **GitHub**: [manumaiden](https://github.com/manumaiden)
+- **Twitter**: 
+- **LinkedIn**: 
+
+---
+
+## 📌 **GitHub Activity**
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
