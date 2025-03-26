@@ -1,4 +1,4 @@
-### Hi there, I'm Emanuele 👨‍💻👋 | **Tech Enthusiast | SysAdmin | Network Engineer** 🖥️🔧
+### Hi there, I'm Emanuele | **Tech Enthusiast | SysAdmin | Network Engineer** 🖥️🔧
 I love problem-solving and always look for ways to optimize and automate things! 🚀
 
 ---
@@ -50,10 +50,8 @@ I love problem-solving and always look for ways to optimize and automate things!
 ![Discord](https://discord.c99.nl/widget/theme-1/260148150562455554.png)
 
 - **GitHub**: [manumaiden](https://github.com/manumaiden)
-- **Twitter**: 
-- **LinkedIn**: 
-
 ---
+
 
 ## 📌 **GitHub Activity**
 <!--START_SECTION:activity-->
