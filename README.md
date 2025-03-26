@@ -26,6 +26,7 @@ I love problem-solving and always look for ways to optimize and automate things!
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
+
 ## 📜 **Certifications**
 - 🏅 **Red Hat Certified System Administrator (RHCSA)** 
 - 🏅 **Red Hat Certified Engineer (RHCE)** 
@@ -33,11 +34,6 @@ I love problem-solving and always look for ways to optimize and automate things!
 - 🏅 **Cisco CCNA**
 - 🏅 **Cisco CCNP** 
 - 🏅 **Microsoft MTA** 
----
-
-## 🚀 **Projects & Contributions**
-🔹 [Project 1](#) - A cool project I'm working on.   
-🔹 [Project 2](#) - Another open-source contribution.  
 
 ---
 
