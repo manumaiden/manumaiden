@@ -14,7 +14,7 @@ I love problem-solving and always look for ways to optimize and automate things!
 - 🔭 **Improving my technical skills** & automation workflows
 - 🌱 **Learning OpenShift** ☸️ and exploring cloud-native technologies
 - 💬 **Ask me about**: System administration (Linux/Windows) & Network Engineering 💻🛜
-- 😄 **Pronouns**: He/Min
+- 😄 **Pronouns**: He/Him
 - 🍪 **Fun fact**: I love **pizza** 🍕 and bakery 🥐 in general!
 
 ---
