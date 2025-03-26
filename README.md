@@ -40,8 +40,8 @@ I love problem-solving and always look for ways to optimize and automate things!
 ---
 
 ## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manumaiden&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumaiden&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manumaiden&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumaiden&layout=compact&theme=dracula)
 
 ---
 
