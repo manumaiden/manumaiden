@@ -10,13 +10,13 @@ Spin up local KVM/libvirt VMs (RHEL/Rocky/Debian) for ephemeral test labs — bo
 
 ---
 
-## 📜 **Certifications**
-- 🏅 **Red Hat Certified System Administrator (RHCSA)** 
-- 🏅 **Red Hat Certified Engineer (RHCE)** 
-- 🏅 **Linux LPI**
-- 🏅 **Cisco CCNA**
-- 🏅 **Cisco CCNP** 
-- 🏅 **Microsoft MTA** 
+## 🛠️ **Tech Stack**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
 
@@ -36,28 +36,15 @@ Spin up local KVM/libvirt VMs (RHEL/Rocky/Debian) for ephemeral test labs — bo
 
 ---
 
-## 🛠️ **Tech Stack**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
----
-
-## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manumaiden&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumaiden&layout=compact&theme=dracula)
+## 📜 **Certifications**
+- 🏅 **Red Hat Certified System Administrator (RHCSA)** 
+- 🏅 **Red Hat Certified Engineer (RHCE)** 
+- 🏅 **Linux LPI**
+- 🏅 **Cisco CCNA**
+- 🏅 **Cisco CCNP** 
+- 🏅 **Microsoft MTA** 
 
 ---
 
 ## 📬 **Contact Me**
 Feel free to open an issue or start a discussion on any of my repos.
-
----
-
-
-## 📌 **GitHub Activity**
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
