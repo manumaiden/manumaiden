@@ -3,10 +3,13 @@ I love problem-solving and always look for ways to optimize and automate things!
 
 ---
 
-## 🚀 **Featured Project**
+## 🚀 **Featured Projects**
 
 ### [labvirt](https://github.com/manumaiden/labvirt)
 Spin up local KVM/libvirt VMs (RHEL/Rocky/Debian) for ephemeral test labs — bonding, teaming, NIC renaming, and more. Menu-driven TUI or direct CLI, zero external Python dependencies.
+
+### [chordsapp](https://github.com/manumaiden/chordsapp)
+Chrome extension that shows guitar chords in a side panel while you watch YouTube — automatic detection, chord transposition, auto-scroll, and a local library (favorites/recents). No backend, everything client-side.
 
 ---
 
