@@ -8,15 +8,22 @@ I love problem-solving and always look for ways to optimize and automate things!
 - I love working with **Docker** 🐳 and **Raspberry Pi projects** 🍓
 - Started my journey in **1995 with a 486DX and DOS** ⏳💾
 - Experienced in **system administration (Linux/Windows) and networking** 🌐⚙️
-- 🎮 **Gaming Enthusiast**: I love playing **World of Warcraft** ⚔️ and classic **Nintendo Switch games** like **Super Mario** 🍄
 - Currently **moving from Italy 🇮🇹 to the Czech Republic 🇨🇿 for work**
+- 😄 **Pronouns**: He/Him
+
+---
+
+## 🚀 **Featured Project**
+
+### [labvirt](https://github.com/manumaiden/labvirt)
+Spin up local KVM/libvirt VMs (RHEL/Rocky/Debian) for ephemeral test labs — bonding, teaming, NIC renaming, and more. Menu-driven TUI or direct CLI, zero external Python dependencies.
+
+---
 
 ### 🔥 **Currently Working On**
-- 🔭 **Improving my technical skills** & automation workflows
+- 🔭 **Building and open-sourcing** small Linux/networking CLI tools
 - 🌱 **Learning OpenShift** ☸️ and exploring cloud-native technologies
 - 💬 **Ask me about**: System administration (Linux/Windows) & Network Engineering 💻🛜
-- 😄 **Pronouns**: He/Him
-- 🍪 **Fun fact**: I love **pizza** 🍕 and bakery 🥐 in general!
 
 ---
 
@@ -47,9 +54,8 @@ I love problem-solving and always look for ways to optimize and automate things!
 ---
 
 ## 📬 **Contact Me**
-![Discord](https://discord.c99.nl/widget/theme-1/260148150562455554.png)
+Feel free to open an issue or start a discussion on any of my repos.
 
-- **GitHub**: [manumaiden](https://github.com/manumaiden)
 ---
 
 
