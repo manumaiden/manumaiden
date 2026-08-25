@@ -8,7 +8,6 @@ I love problem-solving and always look for ways to optimize and automate things!
 - I love working with **Docker** 🐳 and **Raspberry Pi projects** 🍓
 - Started my journey in **1995 with a 486DX and DOS** ⏳💾
 - Experienced in **system administration (Linux/Windows) and networking** 🌐⚙️
-- Currently **moving from Italy 🇮🇹 to the Czech Republic 🇨🇿 for work**
 - 😄 **Pronouns**: He/Him
 
 ---
