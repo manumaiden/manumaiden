@@ -3,19 +3,29 @@ I love problem-solving and always look for ways to optimize and automate things!
 
 ---
 
+## 🚀 **Featured Project**
+
+### [labvirt](https://github.com/manumaiden/labvirt)
+Spin up local KVM/libvirt VMs (RHEL/Rocky/Debian) for ephemeral test labs — bonding, teaming, NIC renaming, and more. Menu-driven TUI or direct CLI, zero external Python dependencies.
+
+---
+
+## 📜 **Certifications**
+- 🏅 **Red Hat Certified System Administrator (RHCSA)** 
+- 🏅 **Red Hat Certified Engineer (RHCE)** 
+- 🏅 **Linux LPI**
+- 🏅 **Cisco CCNA**
+- 🏅 **Cisco CCNP** 
+- 🏅 **Microsoft MTA** 
+
+---
+
 ## 🧐 **About Me**
 - Passionate about **technology, computers, and open-source** 💡🛠️
 - I love working with **Docker** 🐳 and **Raspberry Pi projects** 🍓
 - Started my journey in **1995 with a 486DX and DOS** ⏳💾
 - Experienced in **system administration (Linux/Windows) and networking** 🌐⚙️
 - 😄 **Pronouns**: He/Him
-
----
-
-## 🚀 **Featured Project**
-
-### [labvirt](https://github.com/manumaiden/labvirt)
-Spin up local KVM/libvirt VMs (RHEL/Rocky/Debian) for ephemeral test labs — bonding, teaming, NIC renaming, and more. Menu-driven TUI or direct CLI, zero external Python dependencies.
 
 ---
 
@@ -33,16 +43,6 @@ Spin up local KVM/libvirt VMs (RHEL/Rocky/Debian) for ephemeral test labs — bo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
----
-
-## 📜 **Certifications**
-- 🏅 **Red Hat Certified System Administrator (RHCSA)** 
-- 🏅 **Red Hat Certified Engineer (RHCE)** 
-- 🏅 **Linux LPI**
-- 🏅 **Cisco CCNA**
-- 🏅 **Cisco CCNP** 
-- 🏅 **Microsoft MTA** 
 
 ---
 
