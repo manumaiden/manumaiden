@@ -11,6 +11,9 @@ Spin up local KVM/libvirt VMs (RHEL/Rocky/Debian) for ephemeral test labs — bo
 ### [chordsapp](https://github.com/manumaiden/chordsapp)
 Chrome extension that shows guitar chords in a side panel while you watch YouTube — automatic detection, chord transposition, auto-scroll, and a local library (favorites/recents). No backend, everything client-side.
 
+### [nm-topology](https://github.com/manumaiden/nm-topology)
+Visualize NetworkManager network profiles as an ASCII topology tree — bonds, bridges, VLANs, OVS, WireGuard and more, with colors and an optional PNG export. Zero dependencies, single Python file.
+
 ---
 
 ## 🛠️ **Tech Stack**
