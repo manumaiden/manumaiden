@@ -14,6 +14,9 @@ Chrome extension that shows guitar chords in a side panel while you watch YouTub
 ### [nm-topology](https://github.com/manumaiden/nm-topology)
 Visualize NetworkManager network profiles as an ASCII topology tree — bonds, bridges, VLANs, OVS, WireGuard and more, with colors and an optional PNG export. Zero dependencies, single Python file.
 
+### [ifname](https://github.com/manumaiden/ifname)
+Diagnose network interface renaming on any systemd-based Linux system by reading a udev database (e.g. from a sosreport) — cmdline flags, naming priority, custom udev rules, and legacy rename_device, all in one readable report.
+
 ---
 
 ## 🛠️ **Tech Stack**
