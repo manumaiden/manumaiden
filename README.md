@@ -17,6 +17,9 @@ Visualize NetworkManager network profiles as an ASCII topology tree — bonds, b
 ### [ifname](https://github.com/manumaiden/ifname)
 Diagnose network interface renaming on any systemd-based Linux system by reading a udev database (e.g. from a sosreport) — cmdline flags, naming priority, custom udev rules, and legacy rename_device, all in one readable report.
 
+### [cloudinit-lab](https://github.com/manumaiden/cloudinit-lab)
+Spin up disposable RHEL/Fedora/Debian/Ubuntu VMs with cloud-init in seconds, with parametrized network scenarios (DHCP with DNS overrides, static IP, multi-NIC) to reproduce and test cloud-init network configuration problems. CLI or menu-driven TUI.
+
 ---
 
 ## 🛠️ **Tech Stack**
