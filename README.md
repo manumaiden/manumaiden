@@ -20,6 +20,9 @@ Diagnose network interface renaming on any systemd-based Linux system by reading
 ### [cloudinit-lab](https://github.com/manumaiden/cloudinit-lab)
 Spin up disposable RHEL/Fedora/Debian/Ubuntu VMs with cloud-init in seconds, with parametrized network scenarios (DHCP with DNS overrides, static IP, multi-NIC) to reproduce and test cloud-init network configuration problems. CLI or menu-driven TUI.
 
+### [md-preview-tool](https://github.com/manumaiden/md-preview-tool)
+Local Docker tool that turns markdown into rich text you can paste into a ticketing tool that no longer understands markdown syntax but does preserve formatting. Live preview, customizable signature/templates, zero backend.
+
 ---
 
 ## 🛠️ **Tech Stack**
